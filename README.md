@@ -6,10 +6,10 @@ This JavaScript application provides a user-friendly interface for managing your
 
 Features:  
 
-Add tasks: Quickly add new tasks to your list.  
-Edit tasks: Modify existing functions as needed.  
-Track tasks: Visually see your progress with clear task status.  
-Persistence: Your tasks are stored locally, ensuring they remain accessible after refreshing the page.  
+* Add tasks: Quickly add new tasks to your list.  
+* Edit tasks: Modify existing functions as needed.  
+* Track tasks: Visually see your progress with clear task status.  
+* Persistence: Your tasks are stored locally, ensuring they remain accessible after refreshing the page.  
 
 Usage:
 
